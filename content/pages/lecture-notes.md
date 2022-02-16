@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: f0a814d0-a33d-8447-9e5a-4f14cd67ea96
 ---
@@ -141,7 +144,7 @@ TOPICS
 14
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Tate Cohomology and Kunr (PDF)]({{< baseurl >}}/resources/mit18_786s16_lec14)
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Tate Cohomology and K{{< sup "unr" >}} (PDF)]({{< baseurl >}}/resources/mit18_786s16_lec14)
 {{< tdclose >}}
 
 {{< trclose >}}
