@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, topics covered, readings, problem sets, and grading.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -34,12 +36,12 @@ Topics Covered
 Textbook, References, and Lecture Notes
 ---------------------------------------
 
-There is no required textbook; an annotated [bibliography]({{< baseurl >}}/pages/readings) and [lecture notes]({{< baseurl >}}/pages/lecture-notes) are provided.
+There is no required textbook; an annotated {{% resource_link 891034e4-818c-ab45-e1a9-2b3b42a23d40 "bibliography" %}} and {{% resource_link f0a814d0-a33d-8447-9e5a-4f14cd67ea96 "lecture notes" %}} are provided.
 
 Problem Sets
 ------------
 
-There are 7 weekly [problem sets]({{< baseurl >}}/pages/assignments).
+There are 7 weekly {{% resource_link f1147412-414c-d794-7536-7666be8049a7 "problem sets" %}}.
 
 Grading
 -------
