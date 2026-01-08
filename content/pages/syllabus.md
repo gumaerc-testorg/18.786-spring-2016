@@ -14,11 +14,11 @@ Lectures: 2 sessions / week, 1.5 hours / session
 
 ## Prerequisites
 
-{{% resource_link "2f175e16-7315-4623-b5e1-557247b66306" "*18.785 Number Theory I*" %}}
+[*18.785 Number Theory I*](https://ocw.mit.edu/courses/18-785-number-theory-i-fall-2021/)
 
 ## Description
 
-This course is the continuation of {{% resource_link "2f175e16-7315-4623-b5e1-557247b66306" "*18.785 Number Theory I*" %}}. It begins with an analysis of the quadratic case of Class Field Theory via Hilbert symbols, in order to give a more hands-on introduction to the ideas of Class Field Theory. More advanced topics in number theory are discussed in this course, such as Galois cohomology, proofs of class field theory, modular forms and automorphic forms, Galois representations, and quadratic forms.
+This course is the continuation of [*18.785 Number Theory I*](https://ocw.mit.edu/courses/18-785-number-theory-i-fall-2021/). It begins with an analysis of the quadratic case of Class Field Theory via Hilbert symbols, in order to give a more hands-on introduction to the ideas of Class Field Theory. More advanced topics in number theory are discussed in this course, such as Galois cohomology, proofs of class field theory, modular forms and automorphic forms, Galois representations, and quadratic forms.
 
 ## Topics Covered
 
